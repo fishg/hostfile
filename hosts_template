@@ -1,31 +1,30 @@
-activate.adobe.com
-practivate.adobe.com
-ereg.adobe.com
-wip3.adobe.com
-activate.wip3.adobe.com
-3dns-3.adobe.com
-3dns-2.adobe.com
-adobe-dns.adobe.com
-adobe-dns-2.adobe.com
-adobe-dns-3.adobe.com
-ereg.wip3.adobe.com
-activate-sea.adobe.com
-wwis-dubc1-vip60.adobe.com
-activate-sjc0.adobe.com
-hl2rcv.adobe.com
-lm.licenses.adobe.com
-na2m-pr.licenses.adobe.com
-ims-na1-prprod.adobelogin.com
-na4r.services.adobe.com
-na1r.services.adobe.com
-lmlicenses.wip4.adobe.com
-hlrcv.stage.adobe.com
-dl-ssl.google.com
-dl.google.com
+0.0.0.0    activate.adobe.com
+0.0.0.0    practivate.adobe.com
+0.0.0.0    ereg.adobe.com
+0.0.0.0    wip3.adobe.com
+0.0.0.0    activate.wip3.adobe.com
+0.0.0.0    3dns-3.adobe.com
+0.0.0.0    3dns-2.adobe.com
+0.0.0.0    adobe-dns.adobe.com
+0.0.0.0    adobe-dns-2.adobe.com
+0.0.0.0    adobe-dns-3.adobe.com
+0.0.0.0    ereg.wip3.adobe.com
+0.0.0.0    activate-sea.adobe.com
+0.0.0.0    wwis-dubc1-vip60.adobe.com
+0.0.0.0    activate-sjc0.adobe.com
+0.0.0.0    hl2rcv.adobe.com
+0.0.0.0    lm.licenses.adobe.com
+0.0.0.0    na2m-pr.licenses.adobe.com
+0.0.0.0    na4r.services.adobe.com
+0.0.0.0    na1r.services.adobe.com
+0.0.0.0    lmlicenses.wip4.adobe.com
+0.0.0.0    hlrcv.stage.adobe.com
+0.0.0.0 ims-na1-prprod.adobelogin.com
+203.208.46.200 dl-ssl.google.com
+203.208.46.200 dl.google.com
 gist.github.com
 www.frootvpn.com
 www.kepard.com
-jdk.dev
 www.google.com
 chrome.google.com
 google.com
@@ -38,14 +37,14 @@ facebook.com
 www.facebook.com
 drive.google.com
 accounts.google.com
-ssl.gstatic.com
+203.208.46.200 ssl.gstatic.com
 plus.google.com
-lh1.googleusercontent.com
-lh2.googleusercontent.com
-lh3.googleusercontent.com
-lh4.googleusercontent.com
-lh5.googleusercontent.com
-lh6.googleusercontent.com
+203.208.46.200 lh1.googleusercontent.com
+203.208.46.200 lh2.googleusercontent.com
+203.208.46.200 lh3.googleusercontent.com
+203.208.46.200 lh4.googleusercontent.com
+203.208.46.200 lh5.googleusercontent.com
+203.208.46.200 lh6.googleusercontent.com
 fonts.gstatic.com
 clients5.google.com
 clients1.google.com
@@ -57,17 +56,17 @@ clients6.google.com
 talkgadget.google.com
 mail.google.com
 mail-attachment.googleusercontent.com
-csi.gstatic.com
+203.208.46.200 csi.gstatic.com
 youtube.com
 *.youtube.com
-yt3.ggpht.com
+203.208.46.200 yt3.ggpht.com
 gg.google.com
 apis.google.com
-t2.gstatic.com
-t1.gstatic.com
-t3.gstatic.com
-t0.gstatic.com
-s.ytimg.com
+203.208.46.200 t2.gstatic.com
+203.208.46.200 t1.gstatic.com
+203.208.46.200 t3.gstatic.com
+203.208.46.200 t0.gstatic.com
+203.208.46.200 s.ytimg.com
 i.ytimg.com
 i1.ytimg.com
 i2.ytimg.com
@@ -154,8 +153,8 @@ unity3d.com
 *.unity3d.com
 github.io
 *.github.io
-e7813.ca.s.tl88.net
-cdn1.evernote.com
+122.228.222.49 e7813.ca.s.tl88.net
+122.228.222.49 cdn1.evernote.com
 developer.chrome.com
 blogspot.com
 www.blogger.com
@@ -166,7 +165,6 @@ aws.amazon.com
 *.amazon.com
 sc.imp.live.com
 s.imp.microsoft.com
-googleads.g.doubleclick.net
 login.live.com
 mail.live.com
 a.gfx.ms
@@ -187,3 +185,48 @@ s1-excel-15.cdn.office.net
 s1-officeapps-15.cdn.office.net
 s1-powerpoint-15.cdn.office.net
 s1-onenote-15.cdn.office.net
+116.251.210.225    www.yyets.com
+116.251.210.225    yyets.com
+0.0.0.0    marketing.doubleclickindustries.com
+0.0.0.0    mcmads.mediacapital.pt
+0.0.0.0    anon.doubleclick.speedera.net
+0.0.0.0    dp.g.doubleclick.net
+0.0.0.0    analytics-api-samples.googlecode.com
+0.0.0.0    ads.cc-dt.com
+0.0.0.0    clickserve.cc-dt.com
+0.0.0.0    creative.cc-dt.com
+0.0.0.0    clickserve.dartsearch.net
+0.0.0.0    clickserve.eu.dartsearch.net
+0.0.0.0    clickserve.uk.dartsearch.net
+0.0.0.0    doubleclick.net
+0.0.0.0    *.doubleclick.net
+0.0.0.0    doubleclick.ne.jp
+0.0.0.0    video-stats.video.google.com
+0.0.0.0    adservices.google.com
+0.0.0.0    a.baidu.com
+0.0.0.0    baidutv.baidu.com
+0.0.0.0    bar.baidu.com
+0.0.0.0    c.baidu.com
+0.0.0.0    cjhq.baidu.com
+0.0.0.0    cpro.baidu.com
+0.0.0.0    drmcmm.baidu.com
+0.0.0.0    e.baidu.com
+0.0.0.0    eiv.baidu.com
+0.0.0.0    hc.baidu.com
+0.0.0.0    hm.baidu.com
+0.0.0.0    ma.baidu.com
+0.0.0.0    nsclick.baidu.com
+0.0.0.0    spcode.baidu.com
+0.0.0.0    tk.baidu.com
+0.0.0.0    union.baidu.com
+0.0.0.0    ucstat.baidu.com
+0.0.0.0    utility.baidu.com
+0.0.0.0    utk.baidu.com
+0.0.0.0    focusbaiduafp.allyes.com
+0.0.0.0    ads.yimg.com
+0.0.0.0    cm.p4p.cn.yahoo.com
+0.0.0.0    p.alimama.com
+0.0.0.0    aliunion.cn.yahoo.com
+0.0.0.0    adv.imhb.cn
+0.0.0.0    u.ads8.com
+0.0.0.0    pos.baidu.com
