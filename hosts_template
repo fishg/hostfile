@@ -20,8 +20,6 @@
 0.0.0.0    lmlicenses.wip4.adobe.com
 0.0.0.0    hlrcv.stage.adobe.com
 0.0.0.0 ims-na1-prprod.adobelogin.com
-203.208.46.200 dl-ssl.google.com
-203.208.46.200 dl.google.com
 gist.github.com
 www.frootvpn.com
 www.kepard.com
@@ -36,16 +34,48 @@ www.twitter.com
 facebook.com
 www.facebook.com
 drive.google.com
-accounts.google.com
-203.208.46.200 ssl.gstatic.com
 plus.google.com
-203.208.46.200 lh1.googleusercontent.com
-203.208.46.200 lh2.googleusercontent.com
-203.208.46.200 lh3.googleusercontent.com
-203.208.46.200 lh4.googleusercontent.com
-203.208.46.200 lh5.googleusercontent.com
-203.208.46.200 lh6.googleusercontent.com
-fonts.gstatic.com
+58.63.254.111 play.google.com
+58.63.254.111 accounts.google.com
+58.63.254.111 ssl.gstatic.com
+58.63.254.111 dl-ssl.google.com
+58.63.254.111 dl.google.com
+58.63.254.111 lh1.googleusercontent.com
+58.63.254.111 lh2.googleusercontent.com
+58.63.254.111 lh3.googleusercontent.com
+58.63.254.111 lh4.googleusercontent.com
+58.63.254.111 lh5.googleusercontent.com
+58.63.254.111 lh6.googleusercontent.com
+58.63.254.111 maps.google.com
+58.63.254.111 mts0.google.com
+58.63.254.111 mts1.google.com
+58.63.254.111 t2.gstatic.com
+58.63.254.111 t1.gstatic.com
+58.63.254.111 t3.gstatic.com
+58.63.254.111 t0.gstatic.com
+58.63.254.111 s.ytimg.com
+58.63.254.111 fonts.gstatic.com
+58.63.254.111 csi.gstatic.com
+58.63.254.111 yt3.ggpht.com
+58.63.254.111 translate.google.com
+58.63.254.111 fonts.googleapis.com
+58.63.254.111 gg.google.com
+58.63.254.111 accounts.google.com.hk
+58.63.254.111 goo.gl
+58.63.254.111 www.googleapis.com
+58.63.254.111 doc-0k-9k-docs.googleusercontent.com
+58.63.254.111 oauth.googleusercontent.com
+58.63.254.111 sources.android.com
+58.63.254.111 www.android.com
+58.63.254.111 normalize-css.googlecode.com
+58.63.254.111 goagent.googlecode.com
+58.63.254.111 encrypted-tbn0.gstatic.com
+58.63.254.111 encrypted-tbn1.gstatic.com
+58.63.254.111 encrypted-tbn2.gstatic.com
+58.63.254.111 encrypted-tbn3.gstatic.com
+58.63.254.111 id.google.com.hk
+58.63.254.111 id.google.com
+58.63.254.111 ci4.googleusercontent.com
 clients5.google.com
 clients1.google.com
 clients2.google.com
@@ -56,17 +86,10 @@ clients6.google.com
 talkgadget.google.com
 mail.google.com
 mail-attachment.googleusercontent.com
-203.208.46.200 csi.gstatic.com
 youtube.com
 *.youtube.com
-203.208.46.200 yt3.ggpht.com
 gg.google.com
 apis.google.com
-203.208.46.200 t2.gstatic.com
-203.208.46.200 t1.gstatic.com
-203.208.46.200 t3.gstatic.com
-203.208.46.200 t0.gstatic.com
-203.208.46.200 s.ytimg.com
 i.ytimg.com
 i1.ytimg.com
 i2.ytimg.com
@@ -87,7 +110,6 @@ github.com
 www.github.com
 code.google.com
 *.wikipedia.org
-play.google.com
 m.facebook.com
 mobile.twitter.com
 api.twitter.com
