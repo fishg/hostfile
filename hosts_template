@@ -62,7 +62,7 @@ plus.google.com
 59.173.16.251 gg.google.com
 59.173.16.251 accounts.google.com.hk
 59.173.16.251 goo.gl
-59.173.16.251 www.googleapis.com
+#59.173.16.251 www.googleapis.com
 59.173.16.251 doc-0k-9k-docs.googleusercontent.com
 59.173.16.251 oauth.googleusercontent.com
 59.173.16.251 sources.android.com
