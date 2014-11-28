@@ -67,6 +67,7 @@ plus.google.com
 59.173.16.251 oauth.googleusercontent.com
 59.173.16.251 sources.android.com
 59.173.16.251 www.android.com
+59.173.16.251 tools.android.com
 59.173.16.251 normalize-css.googlecode.com
 59.173.16.251 goagent.googlecode.com
 59.173.16.251 encrypted-tbn0.gstatic.com
@@ -173,7 +174,6 @@ content.yieldmanager.edgesuite.net
 us.js2.yimg.com
 developers.facebook.com
 www.dropbox.com
-*.android.com
 stackoverflow.com
 answers.unity3d.com
 netstorage.unity3d.com
