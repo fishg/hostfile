@@ -67,7 +67,6 @@ plus.google.com
 59.173.16.251 oauth.googleusercontent.com
 59.173.16.251 sources.android.com
 59.173.16.251 www.android.com
-59.173.16.251 tools.android.com
 59.173.16.251 normalize-css.googlecode.com
 59.173.16.251 goagent.googlecode.com
 59.173.16.251 encrypted-tbn0.gstatic.com
@@ -84,6 +83,7 @@ plus.google.com
 59.173.16.251 lh3.ggpht.com
 59.173.16.251 lh4.ggpht.com
 59.173.16.251 lh5.ggpht.com
+tools.android.com
 clients5.google.com
 clients1.google.com
 clients2.google.com
@@ -95,7 +95,7 @@ talkgadget.google.com
 mail.google.com
 mail-attachment.googleusercontent.com
 youtube.com
-*.youtube.com
+www.youtube.com
 gg.google.com
 apis.google.com
 i.ytimg.com
@@ -179,19 +179,17 @@ answers.unity3d.com
 netstorage.unity3d.com
 www.assetstore.unity3d.com
 unity3d.com
-*.unity3d.com
+www.unity3d.com
 github.io
-*.github.io
 122.228.222.49 e7813.ca.s.tl88.net
 122.228.222.49 cdn1.evernote.com
 developer.chrome.com
 blogspot.com
 www.blogger.com
-*.blogger.com
+blogger.com
 www.amazonaws.com
 s3.amazonaws.com
 aws.amazon.com
-*.amazon.com
 sc.imp.live.com
 s.imp.microsoft.com
 login.live.com
@@ -228,7 +226,6 @@ s1-onenote-15.cdn.office.net
 0.0.0.0    clickserve.eu.dartsearch.net
 0.0.0.0    clickserve.uk.dartsearch.net
 0.0.0.0    doubleclick.net
-0.0.0.0    *.doubleclick.net
 0.0.0.0    doubleclick.ne.jp
 0.0.0.0    video-stats.video.google.com
 0.0.0.0    adservices.google.com
