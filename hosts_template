@@ -28,15 +28,19 @@ chrome.google.com
 google.com
 google.com.hk
 www.google.com.hk
+plus-china.l.google.com
+news-cctld.l.google.com
 news.google.com.hk
 twitter.com
 www.twitter.com
 facebook.com
 www.facebook.com
+star.c10r.facebook.com
 drive.google.com
 plus.google.com
 59.173.16.251 play.google.com
-59.173.16.251 accounts.google.com
+accounts.google.com
+accounts.l.google.com
 59.173.16.251 ssl.gstatic.com
 203.208.46.200 dl-ssl.google.com
 203.208.46.200 dl.google.com
@@ -54,13 +58,16 @@ plus.google.com
 59.173.16.251 t3.gstatic.com
 59.173.16.251 t0.gstatic.com
 59.173.16.251 s.ytimg.com
+ytstatic.l.google.com
 59.173.16.251 fonts.gstatic.com
 59.173.16.251 csi.gstatic.com
 59.173.16.251 yt3.ggpht.com
+59.173.16.251 photos-ugc.l.googleusercontent.com
 59.173.16.251 translate.google.com
 59.173.16.251 fonts.googleapis.com
 59.173.16.251 gg.google.com
-59.173.16.251 accounts.google.com.hk
+accounts.google.com.hk
+accounts-cctld.l.google.com
 59.173.16.251 goo.gl
 #59.173.16.251 www.googleapis.com
 59.173.16.251 doc-0k-9k-docs.googleusercontent.com
@@ -84,6 +91,8 @@ plus.google.com
 59.173.16.251 lh4.ggpht.com
 59.173.16.251 lh5.ggpht.com
 tools.android.com
+ghs.google.com
+ghs.l.google.com
 clients5.google.com
 clients1.google.com
 clients2.google.com
@@ -91,13 +100,19 @@ clients3.google.com
 0.client-channel.google.com
 clients4.google.com
 clients6.google.com
+clients.l.google.com
 talkgadget.google.com
 mail.google.com
+googlemail.l.google.com.
 mail-attachment.googleusercontent.com
+googlehosted.l.googleusercontent.com
 youtube.com
 www.youtube.com
+youtube-ui.l.google.com
 gg.google.com
 apis.google.com
+plus.l.google.com
+ytimg.l.google.com
 i.ytimg.com
 i1.ytimg.com
 i2.ytimg.com
@@ -173,6 +188,7 @@ adjax.flickr.yahoo.com
 content.yieldmanager.edgesuite.net
 us.js2.yimg.com
 developers.facebook.com
+star.facebook.com
 www.dropbox.com
 stackoverflow.com
 answers.unity3d.com
@@ -189,6 +205,8 @@ www.blogger.com
 blogger.com
 www.amazonaws.com
 s3.amazonaws.com
+s3.a-geo.amazonaws.com
+s3-2.amazonaws.com
 aws.amazon.com
 sc.imp.live.com
 s.imp.microsoft.com
@@ -199,6 +217,8 @@ p.pfx.ms
 baymsg1010718.gateway.messenger.live.com
 bay181.mail.live.com
 onedrive.live.com
+skyweb.skyprod.akadns.net
+rds.live.com.nsatc.net
 go.microsoft.com
 skyapi.onedrive.live.com
 bl3302files.storage.live.com
