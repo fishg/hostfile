@@ -42,8 +42,9 @@ plus.google.com
 accounts.google.com
 accounts.l.google.com
 59.173.16.251 ssl.gstatic.com
-203.208.46.200 dl-ssl.google.com
-203.208.46.200 dl.google.com
+59.173.16.251 dl-ssl.l.google.com
+59.173.16.251 dl-ssl.google.com
+59.173.16.251 dl.google.com
 59.173.16.251 lh1.googleusercontent.com
 59.173.16.251 lh2.googleusercontent.com
 59.173.16.251 lh3.googleusercontent.com
